@@ -25,7 +25,7 @@ function FeedbackItem({item, handleDelete}) {
   )
 }
 
-FeedbackItem.propTypes = {itemitem: PropTypes.object.isRequired,
+FeedbackItem.propTypes = {item: PropTypes.object.isRequired,
 }
 
 
